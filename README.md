@@ -18,7 +18,12 @@ None known.
 If you want to replicate:
 
 ```
+. xlc-env-settings-aix43-ppc.sh
 ./configure --with-sdl-prefix=/opt/SDL --prefix=/opt/SDL
 make
 make install
 ```
+
+#License
+
+Check the contained COPYING file for the authors' rights.
