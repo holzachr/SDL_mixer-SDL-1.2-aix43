@@ -24,6 +24,6 @@ make
 make install
 ```
 
-#License
+# License
 
 Check the contained COPYING file for the authors' rights.
